@@ -1,6 +1,6 @@
 # Image_search_engine
-
-Here's a ready-made LinkedIn post for your project: Introducing My Latest Project: A Search Engine for Unsplash Images
+Day2 of #30Days30Projects
+Introducing My Latest Project: A Search Engine for Unsplash Images
 I'm excited to share my latest project with you all This search engine allows you to search for images on Unsplash using a simple form. You can browse through the results and even open the images in a new tab.
 
 Key Features:
